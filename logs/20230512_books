@@ -1,0 +1,3 @@
+{"level":"info","msg":"listen on:8080","time":"2023-05-12T19:13:07+07:00"}
+{"level":"warning","msg":"got signal: 0xc000134720, shutting down server ...","time":"2023-05-12T19:13:37+07:00"}
+{"level":"info","msg":"server exiting","time":"2023-05-12T19:13:37+07:00"}
